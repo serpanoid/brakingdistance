@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GItHub\\brakingdistance\\break distance\\break distance.csproj",
+      "projectUniqueName": "C:\\Users\\David\\source\\repos\\break distance\\break distance\\break distance.csproj",
       "projectName": "break distance",
-      "projectPath": "D:\\GItHub\\brakingdistance\\break distance\\break distance.csproj",
+      "projectPath": "C:\\Users\\David\\source\\repos\\break distance\\break distance\\break distance.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "D:\\GItHub\\brakingdistance\\break distance\\obj\\",
+      "outputPath": "C:\\Users\\David\\source\\repos\\break distance\\break distance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
